@@ -21,11 +21,12 @@ A modern, responsive, and fully customizable website template designed specifica
 ‼️ **Website is in Polish language** ‼️
 
 Check out the live demo here:  
-👉 [Live Demo](https://bentorinni.github.io/Dentist/))  
+👉 [Live Demo](https://bentorinni.github.io/Dentist/)
 
-![dental1](https://github.com/user-attachments/assets/dental1)
-![dental2](https://github.com/user-attachments/assets/dental2)
-![dental3](https://github.com/user-attachments/assets/dental3)
+![business3](https://github.com/user-attachments/assets/08399bc3-319c-46e9-b886-2b02cd0f285e)
+![business2](https://github.com/user-attachments/assets/d5abf6b7-6d2e-4c20-a4e8-07f612a9e6cf)
+![business1](https://github.com/user-attachments/assets/c54fe68f-5c0a-496e-bc7d-7aa79fc0a8bc)
+
 
 ## 🛠️ Technologies Used
 
