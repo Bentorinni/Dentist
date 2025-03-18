@@ -21,7 +21,7 @@ A modern, responsive, and fully customizable website template designed specifica
 ‼️ **Website is in Polish language** ‼️
 
 Check out the live demo here:  
-👉 [Live Demo](https://example.com/dental-clinic-demo)  
+👉 [Live Demo](https://bentorinni.github.io/Dentist/))  
 
 ![dental1](https://github.com/user-attachments/assets/dental1)
 ![dental2](https://github.com/user-attachments/assets/dental2)
